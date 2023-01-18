@@ -1,5 +1,5 @@
 ## News App
 
-![image1](./src/img/1.png)
+<img src='./src/img/1.png' width='350px' alt='image'>
 
 
